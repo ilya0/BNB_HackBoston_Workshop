@@ -3,7 +3,21 @@
 Workshop Powerpoint [link]() 
 
 
-Intro BNB - Intermediate, summarizing the developments, ZK and consensus, how to build NFTs on BNB / Defi, using blockchain development tool
+Intro BNB - Intermediate, summarizing the developments, ZK, AvDao and consensus, how to build NFTs on BNB / Defi, using blockchain development tool
+
+Outline of the presentation 
+
+* Intro to BNB
+* how BNB works
+* Possible vulnerabilities
+* Intro to AvDao
+* Possible Vulnerabilities
+* Intro to API
+* What is an NFT
+* How has it changed industries
+	* Gamefi, Art, Music
+
+
 
 
 Tools needed 
