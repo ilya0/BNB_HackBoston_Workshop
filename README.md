@@ -1,23 +1,9 @@
 # BNB_HackBoston_Workshop
 
-Workshop Powerpoint [link]() 
+Building on BNB [link]() 
 
 
-Intro BNB - Intermediate, summarizing the developments, ZK, AvDao and consensus, how to build NFTs on BNB / Defi, using blockchain development tool
-
-Outline of the presentation 
-
-* Intro to BNB
-* how BNB works
-* Possible vulnerabilities
-* Intro to AvDao
-* Possible Vulnerabilities
-* Intro to API
-* What is an NFT
-* How has it changed industries
-	* Gamefi, Art, Music
-
-
+AvengerDao [link]() 
 
 
 Tools needed 
@@ -35,6 +21,7 @@ In this tutorial, we provide a step-by-step guide to the readers on how to issue
 
 ## Learning Takeaways:
 This tutorial will help you gain knowledge on the following learning points:
+
 -	Using BlackIDE for smart contract development;
 -	Managing Keypairs and Funding BNB Tokens to your account on BlackIDE;
 -	MetaMask Wallet connectivity to BSC Testnet;
@@ -43,9 +30,15 @@ This tutorial will help you gain knowledge on the following learning points:
 
 ## Technology Stack Details
 -	BlackIDE v0.15.4
+	- Download here - [link](https://ide.black/)
+
 -	Truffle v5.5.19 (core: 5.5.19)
+	- Download Here [link](https://www.npmjs.com/package/truffle	)		
 -	MetaMask Wallet v10.16.1
+	- Setting up metamask - [link](https://techozu.com/how-to-set-up-metamask-on-pc/)
+	
 -	Docker v20.10.14
+	- Setting up Docker [link](https://adamtheautomator.com/docker-for-mac/)
 
 ## Brief Introduction Tech Stack
 1.	**Solidity:** one of the most popular object-oriented high-level smart contract programming languages. For more details on Solidity, refer here.
@@ -54,6 +47,7 @@ This tutorial will help you gain knowledge on the following learning points:
 
 ## Setting up the Environment
 We aim to keep this tutorial as simple as possible and hence tend to use as minimal resources as possible and have used the following tools in this tutorial.
+
 *	Metamask Wallet
 *	Ensure that you have the Metamask Wallet extension installed and running on our browser.
 *	Configure the Metamask wallet for use with the BSC Testnet. Use the following details to add the BSC Testnet. For further details, refer here.
