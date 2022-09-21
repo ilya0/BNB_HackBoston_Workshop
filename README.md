@@ -1,21 +1,12 @@
-# BNB_HackBoston_Workshop
+# BNB HackBoston Workshop
 
 Building on BNB [link]() 
-
 
 AvengerDao [link]() 
 
 
-Tools needed 
-
-Setup 
-
-# Instructions
-
-
-# __Workshop 
-
-# Using Black IDE to Deploy NFTs on BSC
+ 
+# Using Black IDE to Deploy NFTs on BSC testnet
 
 In this tutorial, we provide a step-by-step guide to the readers on how to issue Non-fungible tokens (NFTs) (ERC721/1155) on the BNB Smart Chain (BSC) Testnet using the Black IDE. This is a detailed guide to learning how to issue, mint and transfer NFTs on the BSC Testnet. The technology stack used in this tutorial includes Solidity , Truffle, MetaMask, and BlackIDE. 
 
