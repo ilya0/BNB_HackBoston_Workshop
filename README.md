@@ -3,7 +3,7 @@
 
 
 * **AvengerDao Website** - [link](https://www.pipsr.cloud/) 
-* **Building on BNB** - Helpful links and resources - [link]() 
+* **Building on BNB** - Helpful links and resources - [link](https://docs.google.com/presentation/d/1w-jlF8z8rlZ9n7aBT1jSZP6rOdNxFDeAkt8m1KdVm4s/edit?usp=sharing) 
 * **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
 * **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
 
