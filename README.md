@@ -1,11 +1,53 @@
-# AvengerDao Cybersecurity challenge
 
+# Helpful links on Building with BNB
 
 
 * **AvengerDao Website** - [link](https://www.pipsr.cloud/) 
 * **Building on BNB** - Helpful links and resources - [link](https://docs.google.com/presentation/d/1w-jlF8z8rlZ9n7aBT1jSZP6rOdNxFDeAkt8m1KdVm4s/edit?usp=sharing) 
 * **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
 * **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
+
+# AvengerDao Cybersecurity challenge
+
+Problem Statement:
+Your mission, should you accept, is to protect BNB chain users from scams, rug pulls and bad actors with the use of the brand new AvengerDao security monitoring API system. 
+
+Help build a safer BNB chain by creating a dapp, integration or a creative implementation using the brand new AvengerDao security monitoring and scanning tool api, alongside BNB’s token, NFTs or any part of the BNB ecosystem, in order to create awareness, protection and safeguards for those interacting with BNB blockchain.
+
+Be creative and unique! Projects can explore use cases in web3, DeFi, DAOs, Dapps, GameFi and even others! Get started with building on the BNB chain by following this link to a few simple tutorials, more tutorials will be provided during the event. https://github.com/bnb-chain/bnb-chain-tutorial/
+
+Top 3 Prizes - $5k in total:
+
+Champion: $2500
+
+First runner-up: $1500
+
+Second runner-up: $1000
+
+##Challenge Requirement:
+Projects must be built with AvengerDao api to be considered, but can be combined with any other available tools, ecosystems and tokens.
+
+
+##Judging Criteria
+Judges will be onsite to interview and explore ideas, implementation and projects. Projects will be graded on a 1-10 scale using the following criteria and may change slightly before the event.
+
+* User Experience
+
+Does this product or implementation create awareness and visibility for a user or a group around how safe the interaction is? Are the project features well thought out and easy to use? If users are able to understand the concept of the project easily? How fluent and user-friendly is the product? 
+
+* Potential Impact
+
+How in demand is this type of project? Is it reasonable that this project will be popular amongst the community? Does the team show potential to continue to improve and promote their project? Will BNB users significantly benefit from this project?
+
+* Implementation
+
+How complete is the project development? Is the website or prototype ready for users? How well constructed are the community engagement features? Is there a live demonstration?
+
+* Uniqueness and Innovation
+
+Has the project pushed the boundaries of what can be done in the blockchain and security space? Did the team or individuals create something innovative? Does this project use components and tools in ways that haven't been previously done. Do these new collaborations help in creating more security and awareness for the BNB ecosystem? Have the creators made any interesting contributions or innovations? 
+
+
 
 
 
