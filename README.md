@@ -1,12 +1,30 @@
-# BNB HackBoston Workshop
-
-Building on BNB [link]() 
-
-AvengerDao [link]() 
+# AvengerDao Cybersecurity challenge
 
 
- 
-# Using Black IDE to Deploy NFTs on BSC testnet
+
+* **AvengerDao Website** - [link](https://www.pipsr.cloud/) 
+* **Building on BNB** - Helpful links and resources - [link]() 
+* **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
+* **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
+
+
+
+# Avenger Dao Consumer API Request
+
+Requesting information about a specific contract or entity can d be found by using this commmand in terminal or api application such as postman
+
+
+`curl -X POST "https://www.pipsr.cloud/api/v1/address-security" -H "Content-Type: application/json"  -d '{"chain_id":"56","address":"0x9bd547446ea13c0c13df2c1885e1f5b019a77441"}'`
+
+More information on the consumer API and the Json information can be found here [link](https://www.pipsr.cloud/html/consumerApi.html)
+
+
+
+# Building on BNB NFTs workshop
+
+
+
+## _Using Black IDE to Deploy NFTs on BSC testnet_
 
 In this tutorial, we provide a step-by-step guide to the readers on how to issue Non-fungible tokens (NFTs) (ERC721/1155) on the BNB Smart Chain (BSC) Testnet using the Black IDE. This is a detailed guide to learning how to issue, mint and transfer NFTs on the BSC Testnet. The technology stack used in this tutorial includes Solidity , Truffle, MetaMask, and BlackIDE. 
 
